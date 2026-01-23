@@ -11,3 +11,6 @@
 - 01.17: 
     - Created repo for my side projects ( My lovely Cycles )
     - I continued BJ circular queue problem. solved!
+
+- 01.23:
+    - TOEIC Voca day 1 start

@@ -14,3 +14,8 @@
 
 - 01.23:
     - TOEIC Voca day 1 start
+
+- 01.25:
+    - TOEIC Voca day 2 ~ 4 
+
+
